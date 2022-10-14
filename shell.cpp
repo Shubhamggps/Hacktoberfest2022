@@ -2,9 +2,10 @@
 using namespace std;
 
 void display(vector<int> A, int n){
-    cout<<endl;
+    cout<<"\n=========================\n";
     for(auto i:A)
-    cout<<i<<" ";
+    cout<<i<<"\n";
+    cout<<endl;
 }
 
 void Sh_S(vector<int> &A, int n){
