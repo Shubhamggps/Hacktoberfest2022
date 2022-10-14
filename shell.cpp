@@ -38,7 +38,7 @@ void Sh_S(vector<int> &A, int n){
 int main(){
     vector<int> V;
     int ch,n;
-    cout<<"size: ";
+    cout<<"Enter size: ";
     cin>>n;
     cout<<"ENTER ARRY: ";
     for(int i=0;i<n;i++)
